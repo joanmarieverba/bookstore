@@ -19,12 +19,18 @@ body {
 a:link, a:visited { color: #e6e154; text-decoration: none; font-weight: bold;} 
 a:active, a:hover { color: #e6e154; text-decoration: underline;}
 
+.award {
+	width: 75px;
+	height: 75px;
+
+}
+
 p {
 	margin: 0px;
 	padding: 0px;
 }
 
-img {
+.book {
 	margin-right: 22px;
 	padding: 0px;
 	border: none;
