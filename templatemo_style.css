@@ -75,6 +75,10 @@ h1 {
 	font-size: 1px;	
 }
 
+.vspace {
+	margin-bottom: 5px;
+}
+
 .buy_now_button a {
 	clear: both;
 	text-align: center;
@@ -101,6 +105,10 @@ h1 {
 	font-weight: bold;
 	text-decoration: none;
 	border-radius: 25px;
+}
+
+.text {
+	font-size: 12px;
 }
 
 #templatemo_container{
