@@ -79,6 +79,8 @@ h1 {
 	margin-bottom: 5px;
 }
 
+
+
 .buy_now_button a {
 	clear: both;
 	text-align: center;
@@ -88,6 +90,20 @@ h1 {
 	margin-bottom: 10px; 
 	background-color: gold;
 	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none;
+	border-radius: 25px;
+}
+
+.buy_button {
+	clear: both;
+	text-align: center;
+	display: inline-block;
+	width: 210px;
+	padding: 4px 0 5px 0;
+	margin-bottom: 10px; 
+	background-color: goldenrod;
+	color: midnightblue;
 	font-weight: bold;
 	text-decoration: none;
 	border-radius: 25px;
@@ -256,6 +272,13 @@ h1 {
 	float: left;
 	padding: 10px;
 	border: 1px solid white;
+	margin-top: 10px;
+	width: 25vw;
+}
+
+#templatemo_content_right .content_product_box {
+	float: left;
+	padding: 10px;
 	margin-top: 10px;
 	width: 25vw;
 }
